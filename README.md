@@ -1,6 +1,7 @@
 # Hoodie Consumer Analysis using data visualization
 This is an experiment I conducted for the analysis of hoodie consumer behavior. This experiment was carried out to enhance my skills in the field of data analysis using data visualization. The dataset used is the "Consumer Behavior and Shopping Habits" dataset obtained from Kaggle.com.
-Link dataset : Consumer Behavior and Shopping Habits Dataset: (kaggle.com)
+
+Link dataset : https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/code 
 # Result
 ## Consumer Profile for Hoodies
 1.	Majority of Hoodie Consumers are Men
