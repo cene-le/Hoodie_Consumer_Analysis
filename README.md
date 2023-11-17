@@ -16,7 +16,8 @@ Link dataset : https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-s
  
 3.	Top-Selling Regions
 
-    The regions with the highest hoodie sales are Louisiana, Colorado, and South Carolina, providing opportunities for further focus on marketing and distribution strategies in these areas.
+       The regions with the highest hoodie sales are Louisiana, Colorado, and South Carolina, providing opportunities for further focus on marketing and distribution strategies in these areas.
+  	
     ![image](https://github.com/mahara22/Hoodie_Consumer_Analysis/assets/85781544/5837768a-64f8-47c9-9faf-c19b4d85e529)
 
  
